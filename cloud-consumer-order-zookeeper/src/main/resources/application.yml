@@ -1,0 +1,8 @@
+server:
+  port: 20080
+spring:
+  application:
+    name: cloud-consumer-order
+  cloud:
+    zookeeper:
+      connect-string: hadoop102:2181    #注册到Zookeeper地址
