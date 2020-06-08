@@ -1,0 +1,25 @@
+
+# nacos 配置
+server:
+  port: 3377
+spring:
+  application:
+    name: nacos-config-client
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: hadoop102:4444    # Nacos 服务注册中中心地址
+      config:
+        server-addr: hadoop102:4444     #Nacos作为配置中心地址
+        file-extension: yaml
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+
+
+#${spring.application.name}-${spring.profile.active}.${spring.cloud.nacos.config.file-extension}

@@ -7,9 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-alibaba-config" />
+        <module name="cloud-alibaba-config-9002" />
+        <module name="cloud-alibaba-provider-order-83" />
+        <module name="cloud-alibaba-provider-payment-9001" />
+        <module name="cloud-alibaba-provider-payment-9002" />
+        <module name="cloud-alibaba-sentinel-order-84" />
+        <module name="cloud-alibaba-sentinel-payment-9003" />
+        <module name="cloud-alibaba-sentinel-payment-9004" />
+        <module name="cloud-alibaba-sentinel-service-8401" />
         <module name="cloud-api-common" />
         <module name="cloud-comsumer-order" />
         <module name="cloud-comsumer-order-consul" />
+        <module name="cloud-config-3355" />
+        <module name="cloud-config-3366" />
         <module name="cloud-consumer-feign-hystrix-order" />
         <module name="cloud-consumer-hystrix-dashboard-9001" />
         <module name="cloud-consumer-order-feign" />
@@ -22,9 +33,14 @@
         <module name="cloud-provider-payment-8002" />
         <module name="cloud-provider-payment-8004-zookeeper" />
         <module name="cloud-provider-payment-8006-consul" />
+        <module name="cloud-server-config" />
         <module name="cloud-single-eureka" />
+        <module name="cloud-single-order-10080" />
         <module name="cloud-single-payment-8000" />
         <module name="cloud-single-payment-8001" />
+        <module name="cloud-stream-rabbitmq-consumer-8802" />
+        <module name="cloud-stream-rabbitmq-consumer-8803" />
+        <module name="cloud-stream-rabbitmq-provider-8801" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
