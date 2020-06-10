@@ -28,6 +28,9 @@
     <file url="file://$PROJECT_DIR$/cloud-provider-payment-8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-provider-payment-8004-zookeeper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-provider-payment-8006-consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-seata-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-seata-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-seata-storage" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-server-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-single-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-single-order-10080" charset="UTF-8" />

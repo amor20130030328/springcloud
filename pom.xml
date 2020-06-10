@@ -43,6 +43,9 @@
         <module>cloud-alibaba-sentinel-order-84</module>
         <module>cloud-alibaba-sentinel-payment-9003</module>
         <module>cloud-alibaba-sentinel-payment-9004</module>
+        <module>cloud-seata-order</module>
+        <module>cloud-seata-storage</module>
+        <module>cloud-seata-account</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -33,6 +33,9 @@
         <module name="cloud-provider-payment-8002" />
         <module name="cloud-provider-payment-8004-zookeeper" />
         <module name="cloud-provider-payment-8006-consul" />
+        <module name="cloud-seata-account" />
+        <module name="cloud-seata-order" />
+        <module name="cloud-seata-storage" />
         <module name="cloud-server-config" />
         <module name="cloud-single-eureka" />
         <module name="cloud-single-order-10080" />
